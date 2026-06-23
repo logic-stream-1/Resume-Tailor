@@ -1,0 +1,6 @@
+{
+  "name": "ResumeTailor",
+  "description": "A sleek, minimalist tool that tailors your resume to match specific job descriptions. It rewrites summaries, rephrases bullet points, and identifies key vocabulary gaps, without fabricating experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
